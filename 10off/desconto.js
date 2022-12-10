@@ -3,7 +3,6 @@ let tres = document.querySelector("div#tres");
 let res = document.querySelector("div#res");
 
 
-bt.addEventListener("click", clica);
 
 function clicar() {
     let p = prompt("Qual o produto que você está comprando?");
